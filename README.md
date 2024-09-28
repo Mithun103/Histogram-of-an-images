@@ -36,15 +36,26 @@ The Histogram of gray scale image and color image is shown.
 
 ```
 ## Output:
-### Input Grayscale Image and Color Image
+### Input bright Grayscale Image and dark Image
+![image](https://github.com/user-attachments/assets/5f3f4a01-ac11-40fe-b01e-60c1fda4d15a)    ![image](https://github.com/user-attachments/assets/a4d3d0d8-2778-49c9-a8cd-c9db783fbb11)
 
 
-### Histogram of Grayscale Image and any channel of Color Image
 
-
+### original Histogram of bright Grayscale Image and Dark Image
+Bright:
+![image](https://github.com/user-attachments/assets/98d57190-4658-40fc-8339-fb08758ceb56)
+Dark:
+![image](https://github.com/user-attachments/assets/044606f0-74b9-497b-b5d7-236a8c38157a)
 
 ### Histogram Equalization of Grayscale Image.
+Bright:
+![image](https://github.com/user-attachments/assets/ebb61889-e85b-4a71-81b4-769892d63d00)
 
+![image](https://github.com/user-attachments/assets/16ac4c0b-7c45-43e0-a08d-0d8366e57797)
+Dark:
+![image](https://github.com/user-attachments/assets/b436f0cb-c134-41aa-ad52-0f44e49c80f2)
+
+![image](https://github.com/user-attachments/assets/b5428097-d76e-4155-857b-e87a3ab86fe2)
 
 
 
